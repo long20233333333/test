@@ -18,3 +18,6 @@ ba la
 20 la 
 21 la 
 thay doi bang UI
+do 80 
+do 82 
+do 84 
